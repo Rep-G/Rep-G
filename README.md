@@ -11,7 +11,7 @@
 
 💡 &nbsp;I like to program and explore backend and AI technology.\
 🌱 &nbsp;Learning Artificial Intelligence.\
-✍️ &nbsp;In my free time, I program and play basketball.\
+✍️ &nbsp;In my free time, I program and play basketball.
 
 ### 🛠 &nbsp;Tech Stack
 
