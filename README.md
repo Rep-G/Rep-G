@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
 <a href="https://github.com/Rep-G">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rep-G&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rep-G&layout=compact&langs_count=8&theme=algolia"/>
